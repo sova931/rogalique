@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     Ball::Ball() : speed(400.f), velocity(0.f, 0.f)
     {

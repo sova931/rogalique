@@ -1,6 +1,6 @@
 #include "ScoreSystem.h"
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     void ScoreSystem::AddObserver(IScoreObserver* observer)
     {

@@ -2,7 +2,7 @@
 #include <SFML/Graphics.hpp>
 #include "Menu.h"
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
 	class Game;
 

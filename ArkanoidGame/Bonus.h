@@ -4,7 +4,7 @@
 #include "GameSettings.h"
 #include "Sprite.h" // Добавляем инклюд для функций работы со спрайтами
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     class GameStatePlayingData;
 
