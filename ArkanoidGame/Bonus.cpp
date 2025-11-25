@@ -2,7 +2,7 @@
 #include "GameStatePlaying.h"
 #include <random>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     Bonus::Bonus(std::unique_ptr<IBonus> effect, const sf::Texture& texture)
         : effect(std::move(effect))

@@ -3,7 +3,7 @@
 #include <SFML/Window/Mouse.hpp>
 #include <iostream>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     Platform::Platform() : speed(500.f)
     {

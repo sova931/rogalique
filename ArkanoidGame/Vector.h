@@ -2,7 +2,7 @@
 #include <SFML/System/Vector2.hpp>
 #include <cmath>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     template<typename T>
     struct Vector2D

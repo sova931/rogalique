@@ -2,7 +2,7 @@
 #include "Sprite.h"
 #include <iostream>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     Brick::Brick() : hitPoints(1), maxHitPoints(1)
     {

@@ -3,7 +3,7 @@
 #include "GameSettings.h"
 #include <list>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     // Функции для работы со спрайтами
     void InitSprite(sf::Sprite& sprite, float desiredWidth, float desiredHeight, const sf::Texture& texture);

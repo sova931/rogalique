@@ -10,7 +10,7 @@
 #include <sstream>
 #include <cmath>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     // Вспомогательная функция для вычисления длины вектора (альтернативная реализация)
     static float CalculateVectorLength(const sf::Vector2f& vector)

@@ -2,7 +2,7 @@
 #include <vector>
 #include <functional>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     class IScoreObserver
     {

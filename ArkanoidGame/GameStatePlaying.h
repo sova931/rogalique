@@ -12,7 +12,7 @@
 #include <memory>
 #include <list>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     class GameStatePlayingData
     {

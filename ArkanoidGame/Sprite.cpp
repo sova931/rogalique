@@ -3,7 +3,7 @@
 #include <iostream>
 #include <cmath>
 
-namespace ArkanoidGame
+namespace RogaliqueGame
 {
     // ========== ‘”Õ ÷»» ƒÀﬂ SPRITE ==========
 
